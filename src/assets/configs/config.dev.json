@@ -1,0 +1,8 @@
+{
+	"baseUrl": "http://localhost:3456",
+	"endpoints": {
+		"books": {
+			"baseUrl": "/books"
+		}
+	}
+}

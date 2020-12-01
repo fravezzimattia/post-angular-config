@@ -1,0 +1,15 @@
+<h1>My books</h1>
+<ng-container *ngIf="( books$ | async ) as postList; else loading">
+	<div *ngFor="let post of postList">
+		<span class="author">
+			{{ post.author }}
+		</span>
+		<span class="title">
+			{{ post.title }}
+		</span>
+	</div>
+</ng-container>
+
+<ng-template #loading>
+	Loading . . .
+</ng-template>
