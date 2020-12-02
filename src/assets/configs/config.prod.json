@@ -1,8 +1,0 @@
-{
-	"baseUrl": "prod-url",
-	"endpoints": {
-		"books": {
-			"baseUrl": "/books"
-		}
-	}
-}

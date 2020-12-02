@@ -36,8 +36,7 @@ export class AppConfigLoader {
 	}
 
 	private getConfigUri(): string {
-		let env = !environment.production ? 'dev' : 'prod';
-		return `./assets/configs/config.${env}.json?v=${environment.appVersion}`
+		return `./assets/configs/config.json?v=${environment.appVersion}`
 	}
 }
 
