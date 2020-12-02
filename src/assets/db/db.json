@@ -3,32 +3,27 @@
 		{
 			"id": 1,
 			"title": "To Kill a Mockingbird",
-			"author": "Harper Lee",
-			"date": "Wed Dec 02 2020 22:56:31 GMT+0100 (Ora standard dell’Europa centrale)"
+			"author": "Harper Lee"
 		},
 		{
 			"id": 2,
 			"title": "1984",
-			"author": "George Orwell",
-			"date": "Wed Dec 02 2020 22:56:31 GMT+0100 (Ora standard dell’Europa centrale)"
+			"author": "George Orwell"
 		},
 		{
 			"id": 3,
 			"title": "Harry Potter and the Philosopher's Stone,",
-			"author": "J.K. Rowling",
-			"date": "Wed Dec 02 2020 22:56:31 GMT+0100 (Ora standard dell’Europa centrale)"
+			"author": "J.K. Rowling"
 		},
 		{
 			"id": 4,
 			"title": "The Lord of the Rings",
-			"author": "J.R.R",
-			"date": "Wed Dec 02 2020 22:56:31 GMT+0100 (Ora standard dell’Europa centrale)"
+			"author": "J.R.R"
 		},
 		{
 			"id": 5,
 			"title": "The Great Gatsby",
-			"author": "Scott Fitzgerald",
-			"date": "Wed Dec 02 2020 22:56:31 GMT+0100 (Ora standard dell’Europa centrale)"
+			"author": "Scott Fitzgerald"
 		}
 	]
 }

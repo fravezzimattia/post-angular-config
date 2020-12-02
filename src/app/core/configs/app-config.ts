@@ -3,12 +3,6 @@ export class AppConfig {
 	endpoints: {
 		books: {
 			baseUrl: string
-		},
-		comments: {
-			baseUrl: string
-		},
-		profile: {
-			baseUrl: string
 		}
 	}
 }
